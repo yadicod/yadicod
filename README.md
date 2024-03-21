@@ -2,7 +2,6 @@
   <img src='https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
-
 <h1 align="center">
  Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="img" width="32" height="32"/> I'm Yadi
 <h3 align="center">
@@ -10,11 +9,13 @@
 </h3>
 <br>
 <div align="center">   
+
 ## Connect With Me
+<p>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/yadi-adi-971961247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/yadicod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<br>
+</p>
     
 ## Used Technologies
 <p>
