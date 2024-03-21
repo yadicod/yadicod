@@ -9,9 +9,7 @@
  Web Developer | Network Engineering | Graphic Design
 </h3>
 <br>
-<div align="center">
-
-   
+<div align="center">   
 ## Connect With Me
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/yadi-adi-971961247" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -46,6 +44,6 @@
 <br>
 
 ## Badges 
-  <img src="https://github-readme-stats.vercel.app/api?username=yadicod&show_icons=true&include_all_commits=true" height="180" alt="GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadicod&layout=compact" height="180" alt="Top Langs"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true" alt="NelanJoe GitHub stats" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" alt="languages graph"  height="150" />
 </div>
