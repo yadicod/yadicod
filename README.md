@@ -15,7 +15,7 @@
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/yadicod" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-</p>
+</p><br>
     
 ## Used Technologies
 <p>
@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React JS" alt="react" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40" />
-</p>
+</p><br>
     
 ## Platforms & Tools
 <p>
@@ -41,9 +41,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="Centos" alt="centos" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="ubuntu" width="40" height="40" />
-</p>
+</p><br>
 
 ## Badges 
+<p>>
    <img src="https://github-readme-stats.vercel.app/api?username=yadicod&show_icons=true&hide=contribs&count_private=true" alt="yadicod GitHub stats" height="150"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=yadicod" alt="languages graph"  height="150" />
+</p>>
 </div>
