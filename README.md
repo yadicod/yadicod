@@ -28,7 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React JS" alt="react" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40" />
-</p><br>
+</p>
     
 ## Platforms & Tools
 <p>
@@ -42,7 +42,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="Centos" alt="centos" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="ubuntu" width="40" height="40" />
 </p>
-<br>
 
 ## Badges 
    <img src="https://github-readme-stats.vercel.app/api?username=yadicod&show_icons=true&hide=contribs&count_private=true" alt="yadicod GitHub stats" height="150"/>
