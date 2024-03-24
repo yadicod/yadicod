@@ -44,6 +44,6 @@
 </p><br>
 
 ## Badges 
-   <img src="https://github-readme-stats.vercel.app/api?username=yadicod&show_icons=true&hide=contribs&count_private=true" alt="yadicod GitHub stats" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=yadicod" alt="languages graph"  height="150" />
+   <img src="https://github-readme-stats.vercel.app/api?username=nelanjoe&show_icons=true&hide=contribs&count_private=true" alt="nelanjoe GitHub stats" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=nelanjoe" alt="languages graph"  height="150" />
 </div>
